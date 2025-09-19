@@ -72,9 +72,6 @@ The file **`My_Certificate.pdf`** contains the completion certificate for this p
 ## 📌 Key Learnings
 
 - Practical exposure to data analytics lifecycle (cleaning → analysis → visualization → presentation).
-- 
 - Translating raw data into business insights.
-- 
 - Leveraging GenAI for faster and more efficient analysis.
-- 
 - Importance of visual storytelling in business decision-making.
