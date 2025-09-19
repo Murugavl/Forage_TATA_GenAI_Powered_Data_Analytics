@@ -61,14 +61,6 @@ The file **`My_Certificate.pdf`** contains the completion certificate for this p
 
 ---
 
-## 🚀 How to Use
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/Murugavl/Forage_TATA_GenAI_Powered_Data_Analytics.git
-
-   cd Forage_TATA_GenAI_Powered_Data_Analytics
-
 ## 📌 Key Learnings
 
 - Practical exposure to data analytics lifecycle (cleaning → analysis → visualization → presentation).
